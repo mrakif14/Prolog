@@ -72,7 +72,7 @@ function hn_writeContent(){
     s += "<div style='float:left'>";
     s += " <a href='"+hn_feed_url+"'>";
     s += "  <img src='http://4.bp.blogspot.com/--HdQKRwt5LQ/Tybjbvd5O6I/AAAAAAAAAas/pUVX0OOr_Qo/s1600/f-unknown2.jpg'";
-    s += " height='20'/>";
+    s += " height='5'/>";
     s += " </a>";
     s += "</div>";
     if(hn_tampilkan_judul){
